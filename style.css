@@ -1,15 +1,16 @@
 img {
-    width: 200px;
+    width: 300px;
+}
+
+head {
+    color: darkgreen;
+    font-family: 'Times New Roman', Times, serif;
 }
 
 body {
     text-align: center;
     font-family: 'Times New Roman';
     background-color:snow;
-    color:darkgoldenrod;
+    color:rgb(0, 0, 0);
 }
 
-body {
-    font-size: large;
-    font-family: Impact;
-}
